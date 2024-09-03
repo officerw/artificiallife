@@ -1,4 +1,3 @@
-// Author: William Officer
 
 package artificiallife;
 
@@ -8,13 +7,6 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 
-/**
- * A class used to create a Population to contain Organism's.
- * We can update the population and calculate statistics regarding
- * the population using methods in this class.
- * @author William Officer
- *
- */
 public class Population {
 	private ArrayList<Organism> population; // This list of organisms is the population.
 	private Map<String, Integer> myCounts; // Stores the current number of Cooperators, Defectors, and PartialCooperators.
