@@ -1,10 +1,3 @@
-// Author: William Officer
-// Assignment Name: Assignment 4: Artificial Life
-// Assignment Due Date: 12/10/21
-// Written and Online Sources Used: None
-// Help Obtained Outside Class: None
-// I confirm that the above list of sources is complete and that I have not talked to anyone
-// else about the solution to this problem.
 
 package artificiallife;
 
