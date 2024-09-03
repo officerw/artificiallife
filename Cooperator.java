@@ -1,11 +1,6 @@
-// Author: William Officer
 
 package artificiallife;
 
-/**
- * A class that extends Organism. A Cooperator, a type of Organism that always cooperates.
- * @author William Officer
- */
 public class Cooperator extends Organism {
 	
 	/**
