@@ -3,10 +3,6 @@ package artificiallife;
 
 import java.util.HashMap;
 
-/**
- * A class that allows for the simulation for a Population of Organism's.
- * @author William Officer
- */
 public class ALifeSim {
 	/**
 	 * A main method used to simulate a Population for x iterations.
