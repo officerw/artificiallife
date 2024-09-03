@@ -1,14 +1,7 @@
-// Author: William Officer
-
 package artificiallife;
 
 import java.util.Random;
 
-/**
- * A class that extends Organism, used to create PartialCooperators.
- * PartialCooperators cooperate half the time.
- * @author William Officer
- */
 public class PartialCooperator extends Organism {
 	
 	/**
