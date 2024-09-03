@@ -1,12 +1,6 @@
-// Author: William Officer
+
 
 package artificiallife;
-
-/**
- * A class that extends Organism, used to create Defectors.
- * Defectors never cooperate.
- * @author William Officer
- */
 public class Defector extends Organism {
 	
 	/**
