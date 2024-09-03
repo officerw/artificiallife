@@ -1,11 +1,8 @@
-// Author: William Officer
+
 
 package artificiallife;
 
-/**
- * An abstract class creating a general structure for an Organism class.
- * @author William Officer
- */
+
 public abstract class Organism {
 	private int energy; // Energy level of this organism.
 	
